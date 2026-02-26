@@ -1,2 +1,2 @@
 sample_id,pod5_dir
-demo_sample,/data/scratch/shared/RSE/nextflow-demos/nf-nanopore-pause-demo
+demo_sample,https://raw.githubusercontent.com/ICR-RSE-Group/test-datasets/nanoporepauses/testdata
